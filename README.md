@@ -1,3 +1,4 @@
+```markdown
 # Tarea 07: Implementación de Constructores en Java
 
 ---
@@ -32,7 +33,6 @@ La clase principal `Tarea07Constructores` crea varias instancias de `PlatoComida
 
 Al ejecutar el programa, la consola mostrará información detallada sobre cada plato creado, indicando qué constructor fue utilizado para su inicialización y los valores de sus atributos.
 
-```
 --- Demostración de Constructores de Platos Ecuatorianos ---
 
 Creando Plato1 (constructor por defecto):
@@ -64,4 +64,4 @@ DEBUG: PlatoComida creado con sobrecarga de constructor (nombre, región, precio
 
 --- Información del Plato Ecuatoriano --- Nombre: Maito de Tilapia Región de Origen: Amazonía Precio: $7.25 Ingrediente Principal: Tilapia
 --- Fin de la demostración ---
-```
+

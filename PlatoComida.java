@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package tarea07constructores; // Asegúrate que este sea el nombre de tu paquete
+package tarea07constructores; 
 
 /**
  * Representa un plato de comida ecuatoriana, demostrando el uso de constructores.
